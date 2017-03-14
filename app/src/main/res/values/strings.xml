@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewChicken</string>
+    <string name="title_first">第一个</string>
+    <string name="title_second">第二个</string>
+    <string name="title_third">第三个</string>
+    <string name="title_forth">第四个</string>
+</resources>
